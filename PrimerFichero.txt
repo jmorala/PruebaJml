@@ -1,1 +1,5 @@
 Primer fichero. Texto inicial
+Siguientes textos - Incluidos cuando se crea la Rama 1
+Texto1
+Texto2
+Texto3
