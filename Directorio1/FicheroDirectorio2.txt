@@ -1,0 +1,3 @@
+Información del fichero
+Línea 2 del fichero - editada desde gitKraken
+Línea 3 del fichero - Editada desde Notepad++
